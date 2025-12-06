@@ -1,0 +1,18 @@
+# Privacy Policy
+
+This application does not collect, store, or share any personal data.
+
+The Business Card App provides:
+- Viewing of static personal information (name, email, job title)
+- Contact form that opens the device email client
+- Local storage of CV items using Android DataStore (on the user's device only)
+
+No data is transmitted to external servers.
+
+The app does not use:
+- Camera
+- Microphone
+- Location
+- Network data collection
+
+All information entered by the user remains on the device and is removed when the app is deleted.
