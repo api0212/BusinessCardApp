@@ -1,8 +1,4 @@
-Business Card App
 
-Android application developed as a coursework project using Kotlin and Jetpack Compose.
-The app provides a clean business card interface with navigation to CV, portfolio, settings, and contact form.
-User preferences and CV entries are stored locally using DataStore.
 
 Features
 1. Business Card Screen
